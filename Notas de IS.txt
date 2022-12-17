@@ -1,0 +1,35 @@
+Sprint 1:
+US01:Diseñar diagrama de clases
+US02:Crear Base de Datos
+US03:Describir la arquitectura
+US04:Implementar página principal
+
+Sprint 2:
+US05:Consultar Vuelo
+US06:Realizar Reserva
+US07:Elegir asiento
+US08:Elegir equipaje
+US09:Ingresar pasajero
+US10:Pagar reserva
+
+Sprint 3:
+US11:Gestionar Reserva
+US12:Consultar Reserva
+US13:Modificar Reserva
+US14:Eliminar Reserva
+
+Sprint 4:
+US15:Gestionar Vuelo
+US16:Añadir Vuelo
+US17:Modificar Vuelo
+
+Sprint 5:
+US18:Iniciar Sesión
+US19:Registrar usuario
+US20:Recuperar contraseña
+
+*******CORREGIR HISTORIAS DE USUARIO SEGUN LO DE POOL*********
+*******EVALUAR AÑADIR ENVÍO DE ENTREGABLES********
+*******AÑADIR LAS VENTANAS DE GESTIONAR VUELOS A LA METODOLOGÍA RUP******
+*******AGREGAR INDICE A LA METODOLOGIA SCRUM*********
+*******AGREGAR FECHAS A LOS FORMATOS DE REVISION Y RETROSPECTIVA*******
